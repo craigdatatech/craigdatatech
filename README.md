@@ -8,9 +8,9 @@ I have work experience using SQL, Tableau and Excel to look into customer retent
 
 I'm currently looking for new roles, so please don't hesitate to get in contact and visit my portfolio here:
 
-LinkedIn: linkedin.com/in/craig-stewart-professional 
+LinkedIn: www.linkedin.com/in/craig-stewart-professional 
 
-Portfolio site: craigdatatech.com
+Portfolio site: www.craigdatatech.com
 
 - ⚡ Fun fact: I speak English, Spanish and Portuguese!
 
