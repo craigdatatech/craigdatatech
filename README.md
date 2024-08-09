@@ -4,7 +4,7 @@ I'm a Data Analyst who loves uncovering new perspectives for business by identif
 
 Curiosity and determination are a big part of my personality, and I enjoy the sense of revelation after transforming and visualising data; those insights really make a difference.
 
-I have work experience using SQL, Tableau and Excel to look into customer retention, pricing and changes in client base to ultimately make the right business decisions to maximise profit and retain clients. 
+I have work experience using SQL, Tableau and Excel to look into customer retention, pricing and changes in client base, to ultimately make the right business decisions and maximise profit and retain clients. 
 
 I'm currently looking for new roles, so please don't hesitate to get in contact and visit my portfolio.
 
