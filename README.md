@@ -1,4 +1,4 @@
-**Hi I’m Craig, welcome to my GitHub**
+**Hi I’m Craig, welcome to my GitHub.**
 
 I'm a Data Analyst who loves uncovering new perspectives for business by identifying stories, patterns and trends.
 
@@ -6,7 +6,7 @@ Curiosity and determination are a big part of my personality, and I enjoy the se
 
 I have work experience using SQL, Tableau and Excel to look into customer retention, pricing and changes in client base, to ultimately make the right business decisions and maximise profit and retain clients. 
 
-I'm currently looking for new roles, so please don't hesitate to get in contact and visit my portfolio by using the links on the bottom left.
+I'm currently looking for new roles, so please don't hesitate to get in contact and visit my portfolio by using the links on the left.
 
 - ⚡ Fun fact: I speak English, Spanish and Portuguese!
 
