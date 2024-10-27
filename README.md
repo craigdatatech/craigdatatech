@@ -1,11 +1,20 @@
 **Hi I’m Craig, welcome to my GitHub.**
 
-I'm a Data Analyst who loves uncovering new perspectives for business by identifying stories, patterns and trends.
+I'm a Data Analyst who thrives on analysing KPIs for business to uncover opportunities.
+Curiosity and determination drive what I do, and I enjoy the achivement of transforming and visualising data to make a difference.
 
-Curiosity and determination are a big part of my personality, and I enjoy the sense of revelation after transforming and visualising data; those insights really make a difference.
+My experience and achievements:
 
-I have work experience using SQL, Tableau and Excel to look into customer retention, pricing and changes in client base, to ultimately make the right business decisions and maximise profit and retain clients. 
+- 2+ years experience providing analysis of business KPIs such as client retention, churn rates and pricing at insurance company. 
+- Led project to examine churn rates for 40,000 active client base, uncovering 10% reduction in retention.
+- Provided monthly reports and updated dashboards using Tableau to demonstrate KPI fluctuations.
+- Interacted with internal stakeholders to establish relevant business metrics for analysis.
 
+My Skills:
+- SQL
+- Tableau
+- Excel
+  
 I'm currently looking for new roles, so please don't hesitate to get in contact and visit my portfolio here:
 
 LinkedIn: www.linkedin.com/in/craig-stewart-professional 
