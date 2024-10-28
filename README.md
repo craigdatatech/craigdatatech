@@ -11,7 +11,7 @@ _Experience and achievements:_
 
 _Skills:_
 - SQL
-  (https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+ ![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 - Tableau
 - Excel
   
