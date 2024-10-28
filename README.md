@@ -6,7 +6,7 @@ Curiosity and determination drive what I do, and I enjoy the achievement of tran
 _Experience and achievements:_
 - 2+ years experience providing analysis of business KPIs such as client retention, churn rates and pricing at insurance company. 
 - Led project to examine churn rates for 40,000 active client base, uncovering 10% reduction in retention.
-- Provided monthly reports and updated dashboards using Tableau to demonstrate KPI fluctuations; interacting with stakeholders to establish metrics for analysis.
+- Provided monthly reports and dashboards using Tableau to demonstrate KPI fluctuations; interacting with stakeholders to establish metrics for analysis.
 - Saved business 15% on premium by identifying at risk clients, via creation of weekly Pivot Tables and Charts in Excel to monitor and report at risk policies.
 
 ![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
