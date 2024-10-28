@@ -9,8 +9,6 @@ _Experience and achievements:_
 - Provided monthly reports and updated dashboards using Tableau to demonstrate KPI fluctuations.
 - Interacted with internal stakeholders to establish relevant business metrics for analysis.
 
-_Skills:_
-
 ![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
