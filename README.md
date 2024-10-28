@@ -7,6 +7,7 @@ _Experience:_
 - 2+ years experience providing analysis of business KPIs such as client retention, churn rates and pricing at insurance company. 
 - Led project to examine churn rates for 40,000 active client base, uncovering 10% reduction in retention.
 - Provided monthly reports and updated dashboards using Tableau to demonstrate KPI fluctuations.
+- Created weekly Pivot Tables and Charts to reports progress of changes in client base.
 - Interacted with internal stakeholders to establish relevant business metrics for analysis.
 
 ![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
