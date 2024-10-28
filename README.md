@@ -1,5 +1,6 @@
-**Hi! I’m Craig, a passionate Data Analyst who thrives on analysing KPIs for business to uncover opportunities..**
+**Hi! I’m Craig, welcome to my GitHub.**
 
+I'm a Data Analyst who thrives on analysing KPIs for business to uncover opportunities.
 Curiosity and determination drive what I do, and I enjoy the achievement of transforming and visualising data to make a difference.
 
 _Experience:_
