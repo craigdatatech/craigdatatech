@@ -3,7 +3,7 @@
 I'm a Data Analyst who thrives on analysing KPIs for business to uncover opportunities.
 Curiosity and determination drive what I do, and I enjoy the achivement of transforming and visualising data to make a difference.
 
-_Experience and achievements:_
+_Experience:_
 - 2+ years experience providing analysis of business KPIs such as client retention, churn rates and pricing at insurance company. 
 - Led project to examine churn rates for 40,000 active client base, uncovering 10% reduction in retention.
 - Provided monthly reports and updated dashboards using Tableau to demonstrate KPI fluctuations.
