@@ -10,9 +10,7 @@ _Experience:_
 - Interacted with internal stakeholders to establish relevant business metrics for analysis.
 
 ![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 LinkedIn: www.linkedin.com/in/craig-stewart-professional 
